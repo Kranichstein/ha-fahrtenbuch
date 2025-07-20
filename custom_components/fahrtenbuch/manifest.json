@@ -1,0 +1,9 @@
+{
+  "domain": "fahrtenbuch",
+  "name": "Fahrtenbuch",
+  "version": "1.0.0",
+  "documentation": "https://github.com/deinuser/ha-fahrtenbuch",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@deinuser"]
+}
